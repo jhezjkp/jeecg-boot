@@ -57,6 +57,14 @@ public class JeecgDemoController extends JeecgController<JeecgDemo,IJeecgDemoSer
 	@Autowired
 	private RedisUtil redisUtil;
 
+	public Result<String> hello() {
+		Result<String> result = new Result<>();
+		result.setResult("hello, jeecg!");
+		result.setSuccess(true);
+		return result;
+
+	}
+
 	/**
 	 * 分页列表查询
 	 * 

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be90bf1a-3da1-42e1-8171-ac40d89a6f47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ant-design-vue-jeecg/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ant-design-vue-jeecg/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ant-design-vue-jeecg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ant-design-vue-jeecg/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ant-design-vue-jeecg/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ant-design-vue-jeecg/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ant-design-vue-jeecg/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ant-design-vue-jeecg/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ant-design-vue-jeecg/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ant-design-vue-jeecg/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jeecg-boot-module-system/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jeecg-boot-module-system/src/main/resources/application-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="be90bf1a-3da1-42e1-8171-ac40d89a6f47" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/jeecg-boot-base-common/target/" />
     <ignored path="$PROJECT_DIR$/jeecg-boot-module-system/target/" />
@@ -71,6 +64,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />

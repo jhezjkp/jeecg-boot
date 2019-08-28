@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbce2c8c-9ec2-4f94-aaf4-225cb0f549bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ant-design-vue-jeecg/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ant-design-vue-jeecg/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ant-design-vue-jeecg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ant-design-vue-jeecg/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ant-design-vue-jeecg/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ant-design-vue-jeecg/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ant-design-vue-jeecg/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ant-design-vue-jeecg/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ant-design-vue-jeecg/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ant-design-vue-jeecg/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jeecg-boot-module-system/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jeecg-boot-module-system/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeecg-boot-module-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jeecg-boot-module-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jeecg-boot-module-system/src/main/java/org/jeecg/modules/demo/test/controller/JeecgDemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jeecg-boot-module-system/src/main/java/org/jeecg/modules/demo/test/controller/JeecgDemoController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,6 +17,73 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/api/vo/Result.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-395">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/AutoLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/Dict.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/PermissionData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/constant/CacheConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/exception/JeecgBootException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/system/api/ISysBaseAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -37,10 +101,128 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeecg-boot-base-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeecg-boot-base-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeecg" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -68,16 +250,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563620530151</updated>
-      <workItem from="1563620531802" duration="593000" />
+      <workItem from="1563620531802" duration="1282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="593000" />
+    <option name="totallyTimeSpent" value="1282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -112,6 +293,57 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/api/vo/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/AutoLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/Dict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/aspect/annotation/PermissionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/constant/CacheConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/exception/JeecgBootException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jeecg/common/system/api/ISysBaseAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
